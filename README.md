@@ -32,13 +32,17 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+----
 
-   [![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=centipede000&show_icons=true&theme=tokyonight)
-)](https://github.com/centipede000/github-readme-stats)
+[![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=centipede000&show_icons=true&theme=tokyonight)](https://github.com/centipede000/github-readme-stats)
 
 </details>
 
+----
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/820171422210719764
+                            )](https://discord.com/users/820171422210719764)
+
+----
 [instagram]: https://instagram.com/siddhantuseless
 [discord]: https://discord.gg/8GzZKMBEjY
