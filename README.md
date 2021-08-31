@@ -40,8 +40,7 @@
 
 ----
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/820171422210719764
-                            )](https://discord.com/users/820171422210719764)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/819584303036891207)](https://discord.com/users/819584303036891207)
 
 ----
 [instagram]: https://instagram.com/siddhantuseless
