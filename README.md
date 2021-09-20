@@ -1,47 +1,54 @@
-### Yo onlooker, I am Siddhant - aka your friendly neighborhood average guy👋
+<div align=center>
 
-----
+[![wakatime](https://wakatime.com/badge/github/centipede000/centipede000.svg)](https://wakatime.com/badge/github/centipede000/centipede000)
 
-## I'm a student of grade 10th, currently studying in India!!
+![cool image](828da4a48236558e78dd1c39b0636e82.gif) 
 
-- 🔭 I am looking forward to make new friends, acquaintances, whatever
-- 🌱 I’m currently learning Python 
-- 👯 I’m looking to collaborate with other people with similar objectives
-- 🥅 2021 Goals: Get proficient in python
-- ⚡ Fun fact: I love to play minecraft
+<p>
 
-----
+<i> Most of my life is spent on discord.
 
-### Connect with me:
+Add me: <a href="https://discord.com/users/819584303036891207"> गावोल#6187 </a>
 
-<img align="left" alt="centipede000 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<img align="left" alt="centipede000 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</i>
 
-<br />
+</p>
 
-----
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/819584303036891207)](https://discord.com/users/819584303036891207)
 
-### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<details>
 
-----
-<br />
-<br />
+<summary>
 
-----
+<b>Some Stats</b>
+
+</summary>
+
+<details>
+
+<summary>
+
+Github
+
+</summary>
 
 [![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=centipede000&show_icons=true&theme=tokyonight)](https://github.com/centipede000/github-readme-stats)
 
 </details>
 
-----
+<details>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/819584303036891207)](https://discord.com/users/819584303036891207)
+<summary>
 
-----
-[instagram]: https://instagram.com/siddhantuseless
-[discord]: https://discord.gg/8GzZKMBEjY
+Languages
+
+</summary>
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@eb2e7666-d46f-4e21-be10-ae21b4fd7c96/2d06909c-2726-4327-9131-f50382dfa52b.png" /></a>
+
+</details>
+
+</details>
+
+</div>
