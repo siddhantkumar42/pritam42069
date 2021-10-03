@@ -16,7 +16,7 @@ Add me: <a href="https://discord.com/users/819584303036891207"> गावोल#
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/819584303036891207)](https://discord.com/users/819584303036891207)
 
-  <h1> I previously did random shit in python but now I am learning web development. </h1>
+  <h1> I dunno tf I am doing with my life. </h1>
 
 <details>
 
