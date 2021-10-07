@@ -46,7 +46,7 @@ Languages
 
 </summary>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@eb2e7666-d46f-4e21-be10-ae21b4fd7c96/072ab24c-6232-4297-baa1-5dda630f4496.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@eb2e7666-d46f-4e21-be10-ae21b4fd7c96/5fb87501-3f7b-4dc8-8ff8-4bd8cbf8b78a.png" /></a>
   
 </details>
 
