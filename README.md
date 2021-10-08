@@ -51,5 +51,12 @@ Languages
 </details>
 
 </details>
+  
+**LINKS**
+<br>
+  
+[Discord](https://discord.gg/Cb5EPvkf8a)
+
+[PayPal](pal.com/paypalme/gawoldagreat)
 
 </div>
