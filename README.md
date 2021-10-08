@@ -46,7 +46,7 @@ Languages
 
 </summary>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@eb2e7666-d46f-4e21-be10-ae21b4fd7c96/5fb87501-3f7b-4dc8-8ff8-4bd8cbf8b78a.png" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=centipede000)](https://github.com/centipede000/github-readme-stats)
   
 </details>
 
