@@ -8,13 +8,13 @@
 
 <i> Most of my life is spent on discord.
 
-Add me: <a href="https://discord.com/users/675312162344009739">centipede000#7138</a>
+Add me: <a href="https://discord.com/users/820171422210719764">TheRider#5308</a>
 
 </i>
 
 </p>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/675312162344009739)](https://discord.com/users/675312162344009739)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/820171422210719764)](https://discord.com/users/820171422210719764)
 
 <h1>
 <b>
