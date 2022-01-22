@@ -22,7 +22,7 @@ I dunno tf I am doing with my life.
 </h1>
 <b>
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=centipede000&count_private=true&theme=radical)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=centipede000&repo=AniManga)
-[![trophy](https://github-profile-trophy.vercel.app/?username=centipede000&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritam42069&count_private=true&theme=radical)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pritam42069&repo=AniManga)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pritam42069&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
