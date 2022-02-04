@@ -1,6 +1,6 @@
 <div align=center>
 
-[![wakatime](https://wakatime.com/badge/github/centipede000/centipede000.svg)](https://wakatime.com/badge/github/centipede000/centipede000)
+[![wakatime](https://wakatime.com/badge/github/pritam42069/pritam42069.svg)](https://wakatime.com/badge/github/pritam42069/pritam42069)
 
 ![cool image](828da4a48236558e78dd1c39b0636e82.gif) 
 
@@ -8,13 +8,13 @@
 
 <i> Most of my life is spent on discord.
 
-Add me: <a href="https://discord.com/users/820171422210719764">TheRider#5308</a>
+Add me: <a href="https://discord.com/users/832144982076817410">pritam#4115</a>
 
 </i>
 
 </p>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/820171422210719764)](https://discord.com/users/820171422210719764)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/832144982076817410)](https://discord.com/users/832144982076817410)
 
 <h1>
 <b>
