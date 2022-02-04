@@ -1,7 +1,5 @@
 <div align=center>
 
-[![wakatime](https://wakatime.com/badge/github/pritam42069/pritam42069.svg)](https://wakatime.com/badge/github/pritam42069/pritam42069)
-
 ![cool image](828da4a48236558e78dd1c39b0636e82.gif) 
 
 <p>
