@@ -1,4 +1,6 @@
 <div align=center>
 <img src=g.gif>
-# Goodbye, friend.
+<h1>
+  <b>Goodbye, friend.</b>
+</h1>  
 </div>
