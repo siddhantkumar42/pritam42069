@@ -4,3 +4,4 @@
   <b>Goodbye, friend.</b>
 </h1>  
 </div>
+<hr>
